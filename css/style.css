@@ -36,3 +36,11 @@ h2 {
     border-color: burlywood;
     border-style: groove;
 }
+
+p {
+    display: block;
+    background-color: rgba(222, 184, 135, 0.5);
+    text-align: center;
+    font-size: 30px;
+    margin: 20px 100px;
+}
