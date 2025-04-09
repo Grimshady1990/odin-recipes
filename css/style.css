@@ -55,3 +55,20 @@ h3 {
 h3.short-background {
     margin-right: 500px;
 }
+
+ol {
+    list-style-type: upper-roman;
+}
+
+ul,
+ol {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 100px;
+}
+
+li {
+    margin-bottom: 20px;
+}
