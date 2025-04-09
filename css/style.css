@@ -45,3 +45,13 @@ p {
     font-size: 30px;
     margin: 20px 100px;
 }
+
+h3 {
+    color: burlywood;
+    background-color: darkslategray;
+    
+}
+
+h3.short-background {
+    margin-right: 500px;
+}
