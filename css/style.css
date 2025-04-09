@@ -2,5 +2,13 @@ h1 {
     color:burlywood;
     background-color: darkslategrey;
     text-align: center;
-
+    margin: 20px 200px;
+    font-size: 50px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: 900;
+    font-style: oblique;
+    border-top: 20px burlywood;
+    border-right: 20px coral;
+    border-color: burlywood;
+    border-style: groove;
 }
